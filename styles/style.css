@@ -1,0 +1,25 @@
+body {
+    background-color: coral;
+}
+
+input, textarea {
+    width: 315px;
+    margin: auto;
+    border-color: cadetblue;
+
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+form {
+    background-color: ivory;
+    border: black 5px solid;
+    border-radius: 20px;
+    border-width: 5px 5px;
+    padding: 10px;
+    margin: 0 auto;
+    width: 320px;
+    
+    -webkit-appearance: none;
+}
+
